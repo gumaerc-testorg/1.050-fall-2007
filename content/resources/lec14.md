@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture notes on the strength of beam structures, M-N coupling, and convexity
   of a strength domain.
 file: null
@@ -6,6 +7,5 @@ file_location: /coursemedia/1-050-engineering-mechanics-i-fall-2007/28c62a7d4fc9
 file_type: application/pdf
 resourcetype: Document
 title: lec14.pdf
-type: resource
 uid: 28c62a7d-4fc9-416c-e49e-3f08b3f5b650
 ---

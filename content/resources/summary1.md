@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture summary on the Galileo problem, dimensional analysis of an 'upscale'
   animal, material strength, and material density.
 file: null
@@ -6,6 +7,5 @@ file_location: /coursemedia/1-050-engineering-mechanics-i-fall-2007/fee09afca9f7
 file_type: application/pdf
 resourcetype: Document
 title: summary1.pdf
-type: resource
 uid: fee09afc-a9f7-7fd1-982f-af1b26ad790a
 ---

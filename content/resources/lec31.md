@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture notes on energy bounds in beam elasticity and the stress method
   for beam structures.
 file: null
@@ -6,6 +7,5 @@ file_location: /coursemedia/1-050-engineering-mechanics-i-fall-2007/5145526a6662
 file_type: application/pdf
 resourcetype: Document
 title: lec31.pdf
-type: resource
 uid: 5145526a-6662-05b2-6e52-3e60b2447985
 ---
