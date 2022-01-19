@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on closure strength models and a review for a quiz.
-file: null
-file_location: /coursemedia/1-050-engineering-mechanics-i-fall-2007/67c58d499d0a9929cbd638e6e36af58d_lec15.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-050-engineering-mechanics-i-fall-2007/67c58d499d0a9929cbd638e6e36af58d_lec15.pdf
 file_type: application/pdf
 resourcetype: Document
 title: lec15.pdf
