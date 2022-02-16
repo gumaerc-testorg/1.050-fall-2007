@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture summary on stress vectors, stress tensors, a 3-scale continuum
   model, stress matrix, and implementing dynamic resultant theorem for REV.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-050-engineering-mechanics-i-fall-2007/deee67ff54621a536b429396258c5d32_summary5.pdf
+file: /media/courses/1-050-engineering-mechanics-i-fall-2007/deee67ff54621a536b429396258c5d32_summary5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: summary5.pdf
 uid: deee67ff-5462-1a53-6b42-9396258c5d32
