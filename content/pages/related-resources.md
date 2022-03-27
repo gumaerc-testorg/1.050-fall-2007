@@ -13,11 +13,11 @@ The MATLAB® tutorial and files are courtesy of the course TA, J. Alberto Ortega
 
 MATLAB® Tutorial ([PDF]({{< baseurl >}}/resources/matlab))
 
-Recitation 1 ([M](/courses/civil-and-environmental-engineering/1-050-engineering-mechanics-i-fall-2007/related-resources/MATLABrecitation.m))
+Recitation 1 ([M]({{< baseurl >}}/resources/matlabrecitation))
 
-Recitation 2 ([M](/courses/civil-and-environmental-engineering/1-050-engineering-mechanics-i-fall-2007/related-resources/MATLAB_rec2.m))
+Recitation 2 ([M]({{< baseurl >}}/resources/matlab_rec2))
 
-Recitation 3 ([M](/courses/civil-and-environmental-engineering/1-050-engineering-mechanics-i-fall-2007/related-resources/MATLAB_rec3.m))
+Recitation 3 ([M]({{< baseurl >}}/resources/matlab_rec3))
 
 Papers
 ------
