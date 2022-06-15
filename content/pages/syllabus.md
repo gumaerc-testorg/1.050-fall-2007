@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: The syllabus section provides an overview of the course and information
+  on lectures, recitations, lecture summary slides, content survey, lecture notes,
+  homework, exams, grading, and recommended citation guidelines.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 96c31e82-69f0-6d67-daee-8272526ac56a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
