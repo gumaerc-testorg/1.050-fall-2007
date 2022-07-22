@@ -5,6 +5,7 @@ description: Tutorial on using MATLAB?, courtesy of the course TA, J. Alberto Or
 file: /courses/1-050-engineering-mechanics-i-fall-2007/c8cd93840305bfbb46aea7e7a8229f57_matlab.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Tutorial on using MATLAB?, courtesy of the course TA, J. Alberto Ortega, and used with permission.
-

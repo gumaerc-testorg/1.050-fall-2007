@@ -5,6 +5,7 @@ file: /courses/1-050-engineering-mechanics-i-fall-2007/5248762c7c1340f201b69511b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on stresses and equilibrium.
-

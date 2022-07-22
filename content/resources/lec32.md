@@ -6,6 +6,7 @@ file: /courses/1-050-engineering-mechanics-i-fall-2007/17dbb6a7318ca4c032d795af3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on energy methods for beam structures and how to solve problems.
-

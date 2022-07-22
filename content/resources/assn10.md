@@ -5,6 +5,7 @@ file: /courses/1-050-engineering-mechanics-i-fall-2007/e92039c1a9022b9b7800701a1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment on energy bounds in elasticity.
-

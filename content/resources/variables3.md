@@ -5,6 +5,7 @@ file: /courses/1-050-engineering-mechanics-i-fall-2007/35806cc11f73e1ddf902580c8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Summary of variables and concepts for lectures 27 through 37.
-

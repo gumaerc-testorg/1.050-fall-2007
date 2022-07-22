@@ -5,6 +5,7 @@ file: /courses/1-050-engineering-mechanics-i-fall-2007/d5f760fef818de14b55dd70d3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture note with detailed steps for solving elasticity problems.
-

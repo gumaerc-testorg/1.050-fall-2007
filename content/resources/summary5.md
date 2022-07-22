@@ -6,6 +6,7 @@ file: /courses/1-050-engineering-mechanics-i-fall-2007/deee67ff54621a536b4293962
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture summary on stress vectors, stress tensors, a 3-scale continuum model, stress matrix, and implementing dynamic resultant theorem for REV.
-

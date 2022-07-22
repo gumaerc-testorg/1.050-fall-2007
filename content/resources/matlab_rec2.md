@@ -4,6 +4,7 @@ description: Supporting MATLAB? file for Recitation 2.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/181b2ea28e84d9a532a7f72e5fb3d271_MATLAB_rec2.m
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting MATLAB? file for Recitation 2.
-
