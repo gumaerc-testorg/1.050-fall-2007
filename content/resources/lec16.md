@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on how to measure and describe deformation, and measurement
   of strain.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/873a66281579d2a970b69fb51ea1610d_lec16.pdf
+file_size: 85772
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

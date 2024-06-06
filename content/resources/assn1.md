@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment to refresh students' memory and encourage team building.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/aa326bf3aa0fba3bdd1e1739e0d4f5ce_assn1.pdf
+file_size: 377721
 file_type: application/pdf
 learning_resource_types:
 - Assignments

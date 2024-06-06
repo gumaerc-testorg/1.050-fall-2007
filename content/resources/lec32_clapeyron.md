@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture supplement on Clapeyron's formulas for 1D.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/a772ecdcf16244e8ac8a7e46422ae8dd_lec32_clapeyron.pdf
+file_size: 48039
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
