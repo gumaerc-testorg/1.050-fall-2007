@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment on beam elasticity.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/df86fc3a3ec24865b833f8e4c74aafb9_assn9.pdf
+file_size: 61951
 file_type: application/pdf
 learning_resource_types:
 - Assignments

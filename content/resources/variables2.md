@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of variables and concepts for Lectures 16 through 26.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/b5e06f54a37ac451fe00a2cd0a9d6532_variables2.pdf
+file_size: 174864
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
