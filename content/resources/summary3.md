@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture summary on dimension analysis and application to engineering
   structures.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/a124ef9c60ac91f72efc1590735b883c_summary3.pdf
+file_size: 98406
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

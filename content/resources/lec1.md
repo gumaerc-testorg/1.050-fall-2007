@@ -4,6 +4,7 @@ description: Lecture notes with an introduction to the course and discussion of 
   Galileo problem, dimensional analysis of an 'upscale' animal, material strength,
   and material density.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/7f91d52457aaef8093c58a43f10a099b_lec1.pdf
+file_size: 694366
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

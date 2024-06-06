@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment on deformation and strain tensors.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/1de6f6177ff0b4ad09f6c4f2797d6cbf_assn7.pdf
+file_size: 406487
 file_type: application/pdf
 learning_resource_types:
 - Assignments

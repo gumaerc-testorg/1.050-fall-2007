@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on strength models, soil mechanics, the Mohr-Coulomb model,
   and application to sand piles.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/37bf75128b6f9961c0148b6316b19d4a_lec12.pdf
+file_size: 52864
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

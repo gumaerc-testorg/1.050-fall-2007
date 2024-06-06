@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture summary on the beam section strength model, M/N interactions,
   compatibility with strength criterion, and statically indeterminate beam.
 file: /courses/1-050-engineering-mechanics-i-fall-2007/45f15a5eac5ac77798cce994f22ba752_summary13.pdf
+file_size: 64636
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
