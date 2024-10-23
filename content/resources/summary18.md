@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture summary on strain Mohr circles and linear deformation theory.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/d9c7f7b43df2e3381478b6a46966b7c9_summary18.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/d9c7f7b43df2e3381478b6a46966b7c9_summary18.pdf
 file_size: 59515
 file_type: application/pdf
 learning_resource_types:
