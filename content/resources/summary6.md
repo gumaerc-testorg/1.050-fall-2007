@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture summary on stresses and equilibrium, the continuum model, and
   a hydrostatics example.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/748001b6bf289636952d0496cf32ce2e_summary6.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/748001b6bf289636952d0496cf32ce2e_summary6.pdf
 file_size: 56794
 file_type: application/pdf
 learning_resource_types:
