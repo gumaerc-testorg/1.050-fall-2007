@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture summary on the strength of beam structures, M-N coupling, and
   convexity of a strength domain.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/b5a6a34526b92337938d68aa4976c5dd_summary14.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/b5a6a34526b92337938d68aa4976c5dd_summary14.pdf
 file_size: 56636
 file_type: application/pdf
 learning_resource_types:

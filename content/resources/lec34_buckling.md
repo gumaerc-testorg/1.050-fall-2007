@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture supplement from an in-class demonstration of buckling.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/b664aab1195a41b9368950a3bf51c93c_lec34_buckling.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/b664aab1195a41b9368950a3bf51c93c_lec34_buckling.pdf
 file_size: 120395
 file_type: application/pdf
 learning_resource_types:

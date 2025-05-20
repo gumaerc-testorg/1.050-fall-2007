@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on energy bounds in elasticity.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/f12456a1c7cd33db34cb9e7176f4abbf_assn11.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/f12456a1c7cd33db34cb9e7176f4abbf_assn11.pdf
 file_size: 52278
 file_type: application/pdf
 learning_resource_types:

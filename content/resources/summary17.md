@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture summary on deformation and strain.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/e64211c8e263b15c89514f0db5b4e569_summary17.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/e64211c8e263b15c89514f0db5b4e569_summary17.pdf
 file_size: 38040
 file_type: application/pdf
 learning_resource_types:
