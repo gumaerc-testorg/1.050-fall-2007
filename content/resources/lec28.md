@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to energy bounds in linear elasticity.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/fcb0c513f4d844b9e2593403f8b6eb47_lec28.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/fcb0c513f4d844b9e2593403f8b6eb47_lec28.pdf
 file_size: 104363
 file_type: application/pdf
 learning_resource_types:

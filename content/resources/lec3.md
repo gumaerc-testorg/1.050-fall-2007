@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on dimension analysis and application to engineering structures.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/1ee8f138ba06d561ffd74486422fd421_lec3.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/1ee8f138ba06d561ffd74486422fd421_lec3.pdf
 file_size: 173000
 file_type: application/pdf
 learning_resource_types:
