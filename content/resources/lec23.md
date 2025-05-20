@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture note with detailed steps for solving elasticity problems.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/d5f760fef818de14b55dd70d3878fbbe_lec23.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/d5f760fef818de14b55dd70d3878fbbe_lec23.pdf
 file_size: 94006
 file_type: application/pdf
 learning_resource_types:

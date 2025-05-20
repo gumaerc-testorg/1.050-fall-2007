@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on dimension analysis.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/44953699b457bb463f41e470ee31673a_assn2.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/44953699b457bb463f41e470ee31673a_assn2.pdf
 file_size: 109394
 file_type: application/pdf
 learning_resource_types:

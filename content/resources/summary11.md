@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture summary on strength criteria, 3D models, Mohr's Circle, Mohr
   stress planes, shear stress, and stress vectors in normal and shear components.
-file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/6b47e02132d41461231ad5de61411c86_summary11.pdf
+file: /courses/1-050-engineering-mechanics-i-fall-2007/6b47e02132d41461231ad5de61411c86_summary11.pdf
 file_size: 76871
 file_type: application/pdf
 learning_resource_types:
