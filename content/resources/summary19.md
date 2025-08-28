@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture summary on beam deformation, general solution procedure, displacement
   vectors, strain tensors, and the Navier-Bernoulli assumption.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/2bd7cef30d04750bc0eec1c3c30e4d11_summary19.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/2bd7cef30d04750bc0eec1c3c30e4d11_summary19.pdf
 file_size: 66765
 file_type: application/pdf
 learning_resource_types:

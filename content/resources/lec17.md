@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on deformation and strain.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/bbb169ea17e92da6dab5db04a771e06e_lec17.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/bbb169ea17e92da6dab5db04a771e06e_lec17.pdf
 file_size: 21925
 file_type: application/pdf
 learning_resource_types:

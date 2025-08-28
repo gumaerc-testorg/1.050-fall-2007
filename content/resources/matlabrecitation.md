@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Recitation 1.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/031f44afaa51cb5a106976fd55041c55_MATLABrecitation.m
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/031f44afaa51cb5a106976fd55041c55_MATLABrecitation.m
 file_size: 1752
 file_type: text/plain
 learning_resource_types: []
