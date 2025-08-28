@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of variables and concepts for lectures 27 through 37.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/35806cc11f73e1ddf902580c83d1566f_variables3.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/35806cc11f73e1ddf902580c83d1566f_variables3.pdf
 file_size: 187851
 file_type: application/pdf
 learning_resource_types:

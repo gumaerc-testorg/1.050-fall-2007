@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture summary on the Hoover Dam, soil mechanics, and the continuum
   model: geostatics example.'
-file: /courses/1-050-engineering-mechanics-i-fall-2007/1ee1b4ab14b57967f6bca59c93656ce1_summary7.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/1ee1b4ab14b57967f6bca59c93656ce1_summary7.pdf
 file_size: 26186
 file_type: application/pdf
 learning_resource_types:

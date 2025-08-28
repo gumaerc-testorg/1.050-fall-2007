@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on stresses and equilibrium.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/5248762c7c1340f201b69511bcc8f03b_assn3.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/5248762c7c1340f201b69511bcc8f03b_assn3.pdf
 file_size: 71263
 file_type: application/pdf
 learning_resource_types:
