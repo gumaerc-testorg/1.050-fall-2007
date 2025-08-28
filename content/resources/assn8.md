@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on beam torsion and 1-D elasticity.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/0356dd1609456fc27dfdeedeac534a7d_assn8.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/0356dd1609456fc27dfdeedeac534a7d_assn8.pdf
 file_size: 110207
 file_type: application/pdf
 learning_resource_types:

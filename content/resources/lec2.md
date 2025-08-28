@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on dimensional analysis and atomic explosions.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/12add51eb384c9c49d83bac16e954c57_lec2.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/12add51eb384c9c49d83bac16e954c57_lec2.pdf
 file_size: 149398
 file_type: application/pdf
 learning_resource_types:

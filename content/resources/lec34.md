@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on fracture mechanics and how brittle materials fail.
-file: /courses/1-050-engineering-mechanics-i-fall-2007/ec501d2b0af7374520084ee3f20a79bb_lec34.pdf
+file: /ol-ocw-studio-app/courses/1-050-engineering-mechanics-i-fall-2007/ec501d2b0af7374520084ee3f20a79bb_lec34.pdf
 file_size: 102995
 file_type: application/pdf
 learning_resource_types:
